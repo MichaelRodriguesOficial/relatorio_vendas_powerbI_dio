@@ -30,4 +30,4 @@ Submenta seu projeto através do link no github | ✅
 ![](print/dio_profit_report.png)
 
 - Detailed Sales Report
-![](img/dio_detailed_sales_report.png)
+![](print/dio_detailed_sales_report.png)
